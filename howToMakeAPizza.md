@@ -1,3 +1,9 @@
+Masa para pizza (puedes comprarla pre-hecha o prepararla tú mismo).
+Salsa de tomate para pizza.
+Queso mozzarella rallado.
+Ingredientes adicionales a elección (pepperoni, champiñones, jamón, pimientos, cebolla, aceitunas, etc.).
+Aceite de oliva.
+Orégano y otras especias al gusto.
 1. Conseguir ingredientes.
 2. Preparar la salsa de tomate.
 3. Preparar la masa para la pizza.
@@ -11,4 +17,5 @@
 4. estirar la masa luego de reposar en forma circular
 5. agregar queso peperoni
 6. meter al horno por 20 minutos
+
 
