@@ -25,3 +25,10 @@ Orégano y otras especias al gusto.
 - Hornea a 200°C por 20 minutos.
 - Saca la pizza del horno, córtala, sirve y disfruta.
 
+1.Inicialmente debes engrasar un molde que puedas meter al horno con tranquilidad.
+2.Luego, aplana la masa de pizza sobre el molde. Si tienes un rodillo te resultará más sencillo
+3.Para la base de la pizza, esparce uniformemente la salsa lista de tomate Doria. De acuerdo a tu gusto puedes aplicar la cantidad que desees.
+4.Luego esparce el queso mozzarella rallado por toda la superficie. Si deseas ponerle más de 100 gr de queso está perfecto
+5.Personaliza tu pizza con tus ingredientes favoritos, en este caso le pusimos unas rodajas de tomate.
+6.Pon tu horno a calentar en 350°C y hornea durante 20 minutos.
+7.Cuando esté lista, sácala con cuidado, deja enfriar un poco y disfruta.
